@@ -12,7 +12,7 @@ This Power BI dashboard provides a comprehensive analysis of Reliance sales data
 
  Top-Selling Products: Identifies high-performing products by sales volume and revenue contribution.
 
-## Geographical Insights: Shows sales distribution by region, helping identify market hotspots.
+ Geographical Insights: Shows sales distribution by region, helping identify market hotspots.
 
 ## Customer Segmentation: Analyzes customer demographics and purchasing patterns.
 
