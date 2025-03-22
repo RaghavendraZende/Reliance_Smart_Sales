@@ -27,3 +27,6 @@ Data Visualization (Bar charts, line graphs, maps)
 Interactive Filters and Drill-Throughs
 
 ## This project demonstrates data analysis and visualization skills, making it ideal for business intelligence and data analytics portfolios.
+
+## Dashboard
+
