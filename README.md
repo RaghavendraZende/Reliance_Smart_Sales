@@ -8,15 +8,15 @@ This Power BI dashboard provides a comprehensive analysis of Reliance sales data
 
 ## Key Features:
 
-## Revenue Analysis: Displays total sales, profit margins, and revenue trends over time.
+ Revenue Analysis: Displays total sales, profit margins, and revenue trends over time.
 
  Top-Selling Products: Identifies high-performing products by sales volume and revenue contribution.
 
  Geographical Insights: Shows sales distribution by region, helping identify market hotspots.
 
-## Customer Segmentation: Analyzes customer demographics and purchasing patterns.
+ Customer Segmentation: Analyzes customer demographics and purchasing patterns.
 
-## Filters & Slicers: Enables dynamic filtering by date, region, and product category.
+ Filters & Slicers: Enables dynamic filtering by date, region, and product category.
 
 ## Tools & Technologies:
 
